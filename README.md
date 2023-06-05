@@ -1,8 +1,10 @@
 # Lyft Case Study in Toledo, Ohio
 
-This is a case study conducted for Clipboard Health, where I assumed the role of a pricing product manager at Lyft. The objective was to analyze and optimize pricing strategies for Lyft's ride-scheduling feature in a new city. Further details can be found below.
+This is a case study, where I assumed the role of a pricing product manager at Lyft. The objective was to analyze and optimize pricing strategies for Lyft's ride-scheduling feature in a new city. Further details can be found below.
 
 ## Prompt: 
+https://creatingvalue.substack.com/p/real-problems-we-tackle-pricing-level
+
 In this scenario, you are the pricing product manager for Lyft's ride-scheduling feature, and you are launching in a new city, Toledo, Ohio. The prevailing rate for rides from the airport to downtown is $25, with drivers earning $19 per ride. However, only 60 out of every 100 ride requests are finding a driver at this price.
 
 Currently, the unit economics are as follows:
