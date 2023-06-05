@@ -1,6 +1,6 @@
 # Lyft Case Study in Toledo, Ohio
 
-This is a case study, where I assumed the role of a pricing product manager at Lyft. The objective was to analyze and optimize pricing strategies for Lyft's ride-scheduling feature in a new city. Further details can be found below.
+This is a case study where I assumed the role of a pricing product manager at Lyft. The objective was to analyze and optimize pricing strategies for Lyft's ride-scheduling feature in a new city. Further details can be found below.
 
 ## Prompt: 
 https://creatingvalue.substack.com/p/real-problems-we-tackle-pricing-level
